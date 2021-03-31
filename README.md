@@ -11,8 +11,8 @@ I can't distribute the Minecraft source code, as that would be a violation of co
 I've added to the game in order to test various security features of the Vanilla server. It contains the UI, keybind, and exploits
 that affect the game. Inside each class there are comments indicating how to tie this into the original games source code.
 
-If you would like to play with the source code yourself, you will need to decompile the game using a tool such as (MCP)[https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack]
-or [MCPReborn][https://github.com/Hexeption/MCP-Reborn].
+If you would like to play with the source code yourself, you will need to decompile the game using a tool such as [MCP](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack)
+or [MCPReborn](https://github.com/Hexeption/MCP-Reborn).
 
 
 ## What's the practical use for this
